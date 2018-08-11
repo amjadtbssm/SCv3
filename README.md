@@ -8,6 +8,8 @@
 4. 魔兽/WarCraft III： +DOTA1
 5. 星际/StarCraft：星际1，星际2
 
+Style = cyberpunk
+
 # target
 
 最终实现一个，脱离星际的基于source2或unreal4引擎的伪2D RTS游戏。
