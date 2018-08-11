@@ -1,2 +1,5 @@
-# SCv3
-SC2018R2，星际/war3+红警/RTS设计研究，let the RTS:SC great again :doge:
+# Q群
+
+860433510
+
+>私聊+wx/qq 735151965
