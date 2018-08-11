@@ -19,6 +19,8 @@ Style = cyberpunk
 
 作为RTS最后延续的火种，先在星际2的游戏大厅里做地图是比较实在的。
 
+-1 先做练习图/练习mod & [SCv3/issues/3](https://github.com/pyzh/SCv3/issues/3)
+
 0. 讨论设计方案
 1. 先做星际2的demo娱乐地图   % 时间：2018年12月以后，先摸了
     - a. 如果有需要，可以参考dota1，给地图加谐星AI
@@ -43,7 +45,7 @@ Style = cyberpunk
 
 # 交流渠道
 
-- 以q群和本github repo的issue为主：https://github.com/pyzh/SCv3/issues
+- 以q群和本github repo的issue为主： [SCv3/issues/](https://github.com/pyzh/SCv3/issues)
 - 贴吧顾不过来，见谅
 
 ## 联络/讨论
