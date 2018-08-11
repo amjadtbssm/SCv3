@@ -37,6 +37,10 @@ Style = cyberpunk
 6. 顶级程序员：深厚的C++/汇编基础，熟练win32/DirectX API，有逆向工程的能力。
 7. 美工/设计：暂时归类到宣传组
 
+### 大概想法
+
+参见：RFC1808A -> https://github.com/pyzh/SCv3/issues/2
+
 # 交流渠道
 
 - 以q群和本github repo的issue为主：https://github.com/pyzh/SCv3/issues
