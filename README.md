@@ -17,4 +17,4 @@
 
 Q群：860433510
 
->私聊+wx/qq 735151965，[b乎](zhihu.com/people/101010)，[b站](https://space.bilibili.com/4237565/)
+>私聊+wx/qq 735151965，[b乎](://zhihu.com/people/101010)，[b站](https://space.bilibili.com/4237565/)
