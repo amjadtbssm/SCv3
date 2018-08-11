@@ -1,3 +1,13 @@
+## RTS：reference/借鉴
+
+涵括但不限于：
+
+1. 红警/Red Alert 2：+尤里的复仇、心灵终结
+2. 帝国时代/Age of Empires II：+帝国3、~帝国4
+3. 战锤/WarHammer：
+4. 魔兽/WarCraft III： +DOTA1
+5. 星际/StarCraft：星际1，星际2
+
 # target
 
 最终实现一个，脱离星际的基于source2或unreal4引擎的伪2D RTS游戏。
@@ -5,6 +15,7 @@
 
 ## roadmap
 
+作为RTS最后延续的火种，先在星际2的游戏大厅里做地图是比较实在的。
 
 0. 讨论设计方案
 1. 先做星际2的demo娱乐地图   % 时间：2018年12月以后，先摸了
