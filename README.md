@@ -17,7 +17,7 @@ Style = cyberpunk
 > [2018-08-11 11:02](http://fanfou.com/statuses/mbHYiYWxIYY)
 
 ![img](https://user-images.githubusercontent.com/1655223/44001156-048dff90-9e5f-11e8-8050-c6f791799e4a.png)
-> [2016-10-13 22:52](http://fanfou.com/statuses/-vkmo1ixqeQ)
+>爆笑星际2的mod / [2016-10-13 22:52](http://fanfou.com/statuses/-vkmo1ixqeQ)
 
 ## roadmap
 
