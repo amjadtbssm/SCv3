@@ -19,7 +19,7 @@ Style = cyberpunk
 
 作为RTS最后延续的火种，先在星际2的游戏大厅里做地图是比较实在的。
 
--2 先做一个星际1的地图 && [SCv3#7：RFC1808C](https://github.com/pyzh/SCv3/issues/7)
+-2 先做一个星际1的地图 & [SCv3#7：RFC1808C](https://github.com/pyzh/SCv3/issues/7)
 
 -1 先做练习图/练习mod & [SCv3#3：RFC1808B](https://github.com/pyzh/SCv3/issues/3)
 
