@@ -16,7 +16,8 @@ Style = cyberpunk
 ![img](https://user-images.githubusercontent.com/1655223/43993756-15434c40-9dc5-11e8-947e-3fe41acc576a.png)
 > [2018-08-11 11:02](http://fanfou.com/statuses/mbHYiYWxIYY)
 
-![img](https://photo.fanfou.com/v1/mss_3d027b52ec5a4d589e68050845611e68/ff/n0/0d/5n/dc_91751.jpg@596w_1l.jpg)
+![img](https://user-images.githubusercontent.com/1655223/44001156-048dff90-9e5f-11e8-8050-c6f791799e4a.png)
+> [2016-10-13 22:52](http://fanfou.com/statuses/-vkmo1ixqeQ)
 
 ## roadmap
 
