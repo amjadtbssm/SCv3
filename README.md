@@ -13,7 +13,8 @@ Style = cyberpunk
 # target
 
 最终实现一个，脱离星际的基于Source2或UE4引擎的伪2D RTS游戏。
-
+![img](https://user-images.githubusercontent.com/1655223/43993756-15434c40-9dc5-11e8-947e-3fe41acc576a.png)
+> [2018-08-11 11:02](http://fanfou.com/statuses/mbHYiYWxIYY)
 
 ## roadmap
 
