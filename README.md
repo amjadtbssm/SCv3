@@ -12,7 +12,7 @@ Style = cyberpunk
 
 # target
 
-最终实现一个，脱离星际的基于Source2或UE4引擎的伪2D RTS游戏。
+最终实现一个，脱离星际的基于<del>Source2或</del>UE4引擎的伪2D RTS游戏。
 ![img](https://user-images.githubusercontent.com/1655223/43993756-15434c40-9dc5-11e8-947e-3fe41acc576a.png)
 > [2018-08-11 11:02](http://fanfou.com/statuses/mbHYiYWxIYY)
 
@@ -40,7 +40,7 @@ Style = cyberpunk
 1. OB[观察员/围观群众]：喜欢RTS游戏，愿意参与讨论和测试，乐意提供反馈意见
 2. 辅助开发：不需要很熟练的编程经验，对开发感兴趣，有高中数学和大学英语基础就行。
 3. 地图制作：熟悉银河编辑器的高端玩家
-4. 游戏制作：有实际游戏开发经验的dalao，熟练掌握起源2或虚幻4引擎
+4. 游戏制作：有实际游戏开发经验的dalao，熟练掌握<del>起源2</del>unity或虚幻4引擎
 5. 宣传协力：懂一些常用的平面设计软件更佳，也可以是游戏社群交际花
 6. 顶级程序员：深厚的C++/汇编基础，熟练win32/DirectX API，有逆向工程的能力。
 7. 美工/设计：暂时归类到宣传组
