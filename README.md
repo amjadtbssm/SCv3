@@ -23,6 +23,14 @@ Style = cyberpunk
 
 作为RTS最后延续的火种，先在星际2的游戏大厅里做地图是比较实在的。
 
+-4 先做一个war3的老年标准图（思路同3.1一致
+
+-4.1 做一个war3的RPG乱斗图（思路同3一致
+
+-3.1 先做一个星际2老年标准图（简化操作，不影响平衡性
+
+-3 先做一个星际2合作模式乱斗图
+
 -2 先做一个星际1的地图 & [SCv3#7：RFC1808C](https://github.com/pyzh/SCv3/issues/7)
 
 -1 先做练习图/练习mod & [SCv3#3：RFC1808B](https://github.com/pyzh/SCv3/issues/3)
